@@ -1,0 +1,16 @@
+{
+  "type": "code",
+  "modid": "metrology",
+  "name": "Metrology",
+  "authors": [
+    "Maltiez",
+    "Ruddy",
+    "MistAway"
+  ],
+  "description": "Proof-of-concept for the procedural animation library",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "",
+    "animationmanagerlib": "0.0.5"
+  }
+}
